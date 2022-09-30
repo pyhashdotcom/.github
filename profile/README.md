@@ -22,12 +22,14 @@ Automated technical analysis. Continuously applying technical analysis for fast,
 In-depth research articles. Learn more about trading strategies, terminologies, and investing concepts.
 
 # Also, Pyhash Market Making 🤖
-Founded in 2018, Pyhash started out as a digital asset management institution providing after market support and treasury management solutions to token issuers, institutions, investors, and mining operations in the blockchain ecosystem.
+Software made for professional market making is now fully open source.
 
-Pyhash trading team is comprised of professionals based around the world with proven technical capabilities and extensive trading experiences.
+👉 [pytrade](https://github.com/pyhashdotcom/trading-bot-app)
 
-The firm has serviced over 20 clients across a variety of geographical jurisdictions and trades upwards of US$50M worth of assets per month.
-
-Pyhash leverages best-in-class trade execution, infrastructure, and market insights to provide lifetime value-add to clients across a broad spectrum of needs.
+Enjoy the following benefits:
+- [x] Self-hosting for safekeeping of your own private keys
+- [x] Mobile friendly web app for easy daily use
+- [x] Tons of trading libraries and strategies
+- [x] Customize the app yourself or reach out to our developers
 
 ℹ️ [More information](https://docs.pyhash.com/pyhash-market-making/overview-of-services)
