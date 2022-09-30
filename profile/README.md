@@ -1,6 +1,6 @@
 # About Pyhash 
 
-Pyhash is an analytics platform for finance professionals, retail traders and institutions to explore data and actionable insights on crypto, blockchain, and trading.
+Pyhash is producing softwares for finance professionals, retail traders and institutions to explore data and actionable insights on crypto, blockchain, and trading.
 
 Let's get started!
 
